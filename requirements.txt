@@ -1,0 +1,8 @@
+Flask
+gunicorn
+numpy
+fastai==2.2.7
+pydicom
+torch
+
+
